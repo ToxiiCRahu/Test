@@ -8,4 +8,4 @@ while True:
     elif opt=="2":
         os.system(" python3 cmdotpsms.py")
     elif opt=="3":
-        os.system("python3 bombingpin.py")
+        os.system("python3 bombinpin.py")
